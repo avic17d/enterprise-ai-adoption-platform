@@ -1,4 +1,4 @@
-# Enterprise AI Assessment & Recommendations Agent — P0 Pilot
+# Enterprise AI Assessment & Recommendation Agent — P0 Pilot
 
 > An agentic AI pipeline that assesses enterprise AI readiness across three dimensions, synthesizes a scored executive brief, and outputs a formatted PDF report — fully automated via n8n.
 
