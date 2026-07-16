@@ -60,11 +60,6 @@ Schedule Trigger
 ```
 enterprise-ai-adoption-platform/
 ├── README.md                           ← This file
-├── prompts/
-│   ├── agent1_industry_scale.md        ← System prompt for Agent 1
-│   ├── agent2_tech_stack.md            ← System prompt for Agent 2
-│   ├── agent3_governance.md            ← System prompt for Agent 3
-│   └── agent4_synthesizer.md           ← System prompt for Agent 4
 ├── workflow/
 │   └── n8n_workflow.json               ← Export from n8n (see below)
 └── data/
