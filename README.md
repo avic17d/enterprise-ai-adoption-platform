@@ -12,7 +12,7 @@ This platform automates the AI readiness assessment process for enterprise clien
 **Stack:** n8n (orchestration) · Anthropic Claude (LLM) · Microsoft OneDrive (data) · PDFBolt (output)  
 **Status:** P0 Prototype — fully functional end-to-end pipeline
 
-**Future Scope** Future versions will expand to real-time data ingestion, multi-framework benchmarking, and autonomous roadmap generation — enabling continuous, scalable AI readiness intelligence across the enterprise.
+**Future Scope:** Future versions will expand to real-time data ingestion, multi-framework benchmarking, and autonomous roadmap generation — enabling continuous, scalable AI readiness intelligence across the enterprise.
 
 ---
 
